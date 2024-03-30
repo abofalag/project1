@@ -1,0 +1,26 @@
+
+
+body{
+    background-color: rgb(3, 24, 63);
+}
+
+mrg{
+    width: 400px;
+    height: 400px;
+}
+.i-i{
+    width: 200px;
+    height: 200px;
+    marquee direction: top: 30;
+}
+.u-u{
+    width: 200px;
+    height: 200px;
+}
+div:hover
+{
+    color: rgb(207, 207, 206);
+    background-image: url(IMG_6954.JPG);
+    cursor: pointer;
+}
+
