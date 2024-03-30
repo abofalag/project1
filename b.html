@@ -51,6 +51,13 @@ div:hover
     <video width="320" height="240" controls>
         <source="https://www.youtube.com/shorts/280b63Syc54?t=11&feature=share">
     </video>
+    <ul style="color: white;"><i><u>our rules</u></i>
+        <li>Age is older than 18</li>
+        <li>No Drinks Through Drive</li>
+        <li>Respect Traffic Laws</li>
+        <li>No speak By phone Thruogh Drive</li>
+        
+    </ul>
         
 
     <h2 style="color: rgb(5, 74, 37);">$14.00</h>
